@@ -26,5 +26,6 @@ public class Encapsulation {
         human.setName("Sweta");
 
         System.out.println(human.getName() + " " + human.getAge());
+        
     }
 }
