@@ -15,5 +15,6 @@ public class MethodOverriding {
         advCalc obj = new advCalc();
         int res = obj.add(5,5);
         System.out.println(res);
+        
     }
 }
