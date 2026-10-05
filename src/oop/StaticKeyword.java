@@ -1,3 +1,5 @@
+package oop;
+
     class Mobile {
         String brand;
         int price;
